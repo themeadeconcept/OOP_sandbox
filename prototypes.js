@@ -1,3 +1,9 @@
+/*
+  each object in Js has a prototype
+  and each prototype is an object iself
+  all objects inherit their properties and methods from their prototypes
+*/
+
 // Object.prototype
 // Person.prototype
 

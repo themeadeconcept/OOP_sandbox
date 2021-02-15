@@ -9,7 +9,7 @@
 // console.log(torrey.age);
 
 // Person constructor (CONSTRUCTORS SHOULD START WITH A CAPITAL LETTER)
-// this refers to the current instance of the object
+// "this" refers to the current instance of the object
 function Person(name, dob) {
   this.name = name;
   // this.age = age;
